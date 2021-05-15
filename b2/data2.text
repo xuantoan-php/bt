@@ -1,0 +1,31 @@
+===Cơ sở dữ liệu insert
+
+== Cấu trúc bảng cho bảng data2
+
+|------
+|Cột|Kiểu|Null|Mặc định
+|------
+|//**id**//|smallint(6)|Không|
+|vitri|varchar(30)|Không|
+|soluong|varchar(30)|Không|
+|hoahong|varchar(30)|Không|
+|thuviec|varchar(30)|Không|
+|mota|varchar(30)|Không|
+|yeucau|varchar(30)|Không|
+|quyenloi|varchar(30)|Không|
+|hoso|varchar(30)|Không|
+|birthday|varchar(30)|Không|
+|nguoilienhe|varchar(30)|Không|
+|diachi|varchar(30)|Không|
+|sdt|varchar(30)|Không|
+|email|varchar(30)|Không|
+== Đang đổ dữ liệu cho bảng data2
+
+|22|php|5|25%|3|hhhhh
+kkk
+ffff|uuuuu
+rrrrrrrr
+vvvvvvvvvv|sssssssss
+ddddd|wwwwwwwwwww
+zzzzzzz
+cccccccccc|2021-05-27|quen|87676554|hanoi|toan04011996@gmail.com
